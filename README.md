@@ -1,1 +1,1 @@
-# Determinte-customer-churn-with-Logistic-Regression
+# Determine-customer-churn-with-Logistic-Regression
